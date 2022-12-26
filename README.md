@@ -18,6 +18,9 @@ In this project I will be demonstrating how to set up a cloud based SIEM, as wel
 <h2>Utilities Used</h2>
 ipgeolocation.io: IP Address to Geolocation API
 
+<h2>Program walk-through:</h2>
+<H3>Step 1 - Configuring the credential scan</H3>
+
 <h2>Attacks from South  Korea coming in; Custom logs being output with geodata </h2>
 
 <img src="https://i.imgur.com/x3mLIuG.png" height="80%" width="80%" alt="Image 13"/>
