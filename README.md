@@ -1,5 +1,3 @@
-# how-to-migrate-database-in-aws
-
 <h1>How to migrate database in AWS</h1>
 
 <h2>Description</h2>
