@@ -19,9 +19,15 @@ In this project I will be demonstrating how to set up a cloud based SIEM, as wel
 ipgeolocation.io: IP Address to Geolocation API
 
 <h2>Program walk-through:</h2>
-<H3>Step 1 - Configuring the credential scan</H3>
+<H3>Step 1 - Create a vpc peering connection n</H3>
 
-<h2>Attacks from South  Korea coming in; Custom logs being output with geodata </h2>
+<H3>Step 2 - Setup routing for vpc peer connection</H3>
+
+<H3>Step 3 - Provisioning the the database within AWS</H3>
+
+<H3>Step 4 - Create the RDS instancen</H3>
+
+<H3>Step 5 - Create the DMS subnet group</H3>
 
 <img src="https://i.imgur.com/x3mLIuG.png" height="80%" width="80%" alt="Image 13"/>
 
@@ -29,9 +35,6 @@ ipgeolocation.io: IP Address to Geolocation API
 
 [How to migrate database in AWS](https://www.youtube.com/watch?v=fuCb0CeHvdI)
 
-<H3>Map of incoming attacks after 6 hours</H3>
-
-<img src="https://i.imgur.com/iYGlutN.png" height="80%" width="80%" alt="Image 14"/>
 
 <h2>Learning Outcome</h2>
 From completing this project I was  able to understand how Azure Sentinel works and the benefits from using it in your environment.
