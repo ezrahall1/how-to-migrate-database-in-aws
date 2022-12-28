@@ -7,27 +7,31 @@ In this project I will be demonstrating how to migrate a simple web application 
 
 <h2>Services Used</h2>
 
-- <b>Log Analytics Workspace</b>
-- <b>Azure Sentinel SIEM</b>
-- <b>PowerShell</b> 
+- <b>VPC</b>
+- <b>EC2</b>
+- <b>RDS</b> 
+- <b>DMS</b>
 
 <h2>Environments Used </h2>
 
 - <b>AWS</b>
 
-<h2>Utilities Used</h2>
-ipgeolocation.io: IP Address to Geolocation API
-
 <h2>Program walk-through:</h2>
-<H3>Step 1 - Create a vpc peering connection n</H3>
+<H3>Step 1 - Implement private connectivity between the environments</H3>
 
-<H3>Step 2 - Setup routing for vpc peer connection</H3>
+<H3>Step 2 - Create & Configure the AWS Side infrastructure</H3>
 
-<H3>Step 3 - Provisioning the the database within AWS</H3>
+From here I provision the EC2 instance which function as the AWS web server.
 
-<H3>Step 4 - Create the RDS instancen</H3>
+This screenshot shows that all the WordPress assets has been copied from this server to the AWS EC2 instance.
 
-<H3>Step 5 - Create the DMS subnet group</H3>
+
+
+<H3>Step 3 - Migrate Database</H3>
+
+
+
+In this section I created subnet groups, replication instance, endpoints and database migration tasks.
 
 <img src="https://i.imgur.com/x3mLIuG.png" height="80%" width="80%" alt="Image 13"/>
 
