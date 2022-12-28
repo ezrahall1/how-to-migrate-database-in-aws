@@ -19,21 +19,35 @@ In this project I will be demonstrating how to migrate a simple web application 
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Implement private connectivity between the environments</H3>
 
+
+<img src="https://i.imgur.com/jQdxUHp.png" height="80%" width="80%" alt="Image 1"/>
+
+<img src="https://i.imgur.com/IV6ym3L.png" height="80%" width="80%" alt="Image 2"/>
+
 <H3>Step 2 - Create & Configure the AWS Side infrastructure</H3>
+
+<img src="https://i.imgur.com/eFynHjp.png" height="80%" width="80%" alt="Image 3"/>
+
+
+<img src="https://i.imgur.com/rUQGEMX.png" height="80%" width="80%" alt="Image 4"/>
+
 
 From here I provision the EC2 instance which function as the AWS web server.
 
 This screenshot shows that all the WordPress assets has been copied from this server to the AWS EC2 instance.
 
+<img src="https://i.imgur.com/iDixIP9.png" height="80%" width="80%" alt="Image 5"/>
+
+<img src="https://i.imgur.com/XHmCevs.png" height="80%" width="80%" alt="Image 6"/>
 
 
 <H3>Step 3 - Migrate Database</H3>
 
 
-
 In this section I created subnet groups, replication instance, endpoints and database migration tasks.
 
-<img src="https://i.imgur.com/x3mLIuG.png" height="80%" width="80%" alt="Image 13"/>
+<img src="https://i.imgur.com/7s4modn.png" height="80%" width="80%" alt="Image 7"/>
+
 
 <h2>YouTube Demonstration </h2>
 
