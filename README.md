@@ -29,7 +29,7 @@ In this project I will be demonstrating how to migrate a simple web application 
 <img src="https://i.imgur.com/eFynHjp.png" height="60%" width="60%" alt="Image 3"/>
 
 
-<img src="https://i.imgur.com/rUQGEMX.png" height="80%" width="80%" alt="Image 4"/>
+<img src="https://i.imgur.com/rUQGEMX.png" height="60%" width="60%" alt="Image 4"/>
 
 
 From here I provision the EC2 instance which function as the AWS web server.
