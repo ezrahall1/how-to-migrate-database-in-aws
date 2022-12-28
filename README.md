@@ -32,11 +32,9 @@ In this project I will be demonstrating how to migrate a simple web application 
 <img src="https://i.imgur.com/rUQGEMX.png" height="60%" width="60%" alt="Image 4"/>
 
 From here I provision the EC2 instance which function as the AWS web server.
-
 <img src="https://i.imgur.com/iDixIP9.png" height="60%" width="60%" alt="Image 5"/>
 
 This screenshot shows that all the WordPress assets has been copied from this server to the AWS EC2 instance.
-
 <img src="https://i.imgur.com/XHmCevs.png" height="60%" width="60%" alt="Image 6"/>
 
 
