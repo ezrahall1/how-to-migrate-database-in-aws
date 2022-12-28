@@ -37,14 +37,13 @@ From here I provision the EC2 instance which function as the AWS web server.
 
 This screenshot shows that all the WordPress assets has been copied from this server to the AWS EC2 instance.
 
-<img src="https://i.imgur.com/XHmCevs.png" height="80%" width="80%" alt="Image 6"/>
+<img src="https://i.imgur.com/XHmCevs.png" height="60%" width="60%" alt="Image 6"/>
 
 
 <H3>Step 3 - Migrate Database</H3>
 
 In this section I created subnet groups, replication instance, endpoints and database migration tasks.
-
-<img src="https://i.imgur.com/7s4modn.png" height="80%" width="80%" alt="Image 7"/>
+<img src="https://i.imgur.com/7s4modn.png" height="60%" width="60%" alt="Image 7"/>
 
 
 <h2>YouTube Demonstration </h2>
