@@ -1,7 +1,7 @@
 <h1>How to migrate database in AWS</h1>
 
 <h2>Description</h2>
-In this project I will be demonstrating how to set up a cloud based SIEM, as well as virtual machine in the cloud which will be the honeypot. It will be have vulnerabilities to the internet which I will monitor and log the attacks from different ip addresses, from different countries all over the world. I will extract the failed log on data and ingest it into Azure Sentinel and present it on a world map so you can visualize where the attacks are coming from.
+In this project I will be demonstrating how to migrate a simple web application from an on-premises environment into AWS. The on-premises environment is a virtual web server simulated using EC2 and a self-managed MariaDB database server also simulated via EC2.
 <br />
 
 
@@ -13,7 +13,7 @@ In this project I will be demonstrating how to set up a cloud based SIEM, as wel
 
 <h2>Environments Used </h2>
 
-- <b>Azure</b>
+- <b>AWS</b>
 
 <h2>Utilities Used</h2>
 ipgeolocation.io: IP Address to Geolocation API
