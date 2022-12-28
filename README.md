@@ -20,7 +20,7 @@ In this project I will be demonstrating how to migrate a simple web application 
 <H3>Step 1 - Implement private connectivity between the environments</H3>
 
 
-<img src="https://i.imgur.com/jQdxUHp.png" height="40%" width="40%" alt="Image 1"/>
+<img src="https://i.imgur.com/jQdxUHp.png" height="60%" width="60%" alt="Image 1"/>
 
 <img src="https://i.imgur.com/IV6ym3L.png" height="80%" width="80%" alt="Image 2"/>
 
