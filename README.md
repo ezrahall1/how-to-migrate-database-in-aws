@@ -26,7 +26,7 @@ In this project I will be demonstrating how to migrate a simple web application 
 
 <H3>Step 2 - Create & Configure the AWS Side infrastructure</H3>
 
-<img src="https://i.imgur.com/eFynHjp.png" height="60%" width="60%" alt="Image 3"/>
+<img src="https://i.imgur.com/eFynHjp.png" height="80%" width="80%" alt="Image 3"/>
 
 
 <img src="https://i.imgur.com/rUQGEMX.png" height="80%" width="80%" alt="Image 4"/>
