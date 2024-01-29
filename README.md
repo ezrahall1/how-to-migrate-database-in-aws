@@ -1,7 +1,7 @@
 <h1>How to migrate database in AWS</h1>
 
 <h2>Description</h2>
-In this project, I'll showcase the migration process of a basic web application from an on-premises setting to AWS. The on-premises environment comprises a virtual web server, emulated through EC2, and a self-managed MariaDB database server, also replicated using EC2.
+This project will feature the migration journey of a fundamental web application from an on-premises environment to AWS. The existing on-premises setup involves a virtual web server simulated on EC2 and a self-managed MariaDB database server, both replicated within the AWS EC2 infrastructure. The demonstration will meticulously guide through the steps of transitioning the web application, emphasizing the migration from on-premises to cloud-based services on AWS. By highlighting the process of replicating the virtual server and database environment, the project aims to provide a comprehensive overview of the migration process while leveraging Amazon EC2 for enhanced scalability and flexibility.
 <br />
 
 
