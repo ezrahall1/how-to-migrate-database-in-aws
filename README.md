@@ -49,9 +49,5 @@ In this section I created subnet groups, replication instance, endpoints and dat
 [How to migrate database in AWS](https://www.youtube.com/watch?v=fuCb0CeHvdI)
 
 
-<h2>Learning Outcome</h2>
-
-
-
 </p>
 
